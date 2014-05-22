@@ -1,4 +1,4 @@
 this is a file
 
-[] one
-[] two
+- [x] one
+- [] two
