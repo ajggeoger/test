@@ -3,7 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
                                                                                 
 "features": [
-{ "type": "Feature", "properties": { "CODE": 6155, "IDENTIFIER": "4186290627029", "NAME": "Test#1" }, "geometry": { "type": "Point", "coordinates": [ -1.000191680498605, 59.536632555326435 ] } },
+{ "type": "Feature", "properties": { "CODE": 6155, "IDENTIFIER": "4186290627029", "NAME": "Chathill" }, "geometry": { "type": "Point", "coordinates": [ -1.706391680498605, 55.536632555326435 ] } },
 { "type": "Feature", "properties": { "CODE": 6155, "IDENTIFIER": "4222020601490", "NAME": "Acklington" }, "geometry": { "type": "Point", "coordinates": [ -1.651803866449201, 55.307006793722586 ] } },
 { "type": "Feature", "properties": { "CODE": 6155, "IDENTIFIER": "4230830611074", "NAME": "Alnmouth" }, "geometry": { "type": "Point", "coordinates": [ -1.637140002584783, 55.393083082481915 ] } },
 { "type": "Feature", "properties": { "CODE": 6155, "IDENTIFIER": "2985920507906", "NAME": "Nethertown" }, "geometry": { "type": "Point", "coordinates": [ -3.565728263253142, 54.456379942004489 ] } },
